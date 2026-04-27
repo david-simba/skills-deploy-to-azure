@@ -6,8 +6,8 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: <x>-azure-ttt
-  AZURE_WEBAPP_NAME: <x>-ttt-app
+  DOCKER_IMAGE_NAME: <david-simba>-azure-ttt
+  AZURE_WEBAPP_NAME: <david-simba>-ttt-app
 
 jobs:
   build:
